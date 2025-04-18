@@ -132,4 +132,4 @@ It was rewarding to see even modest statistical effects emerge from real-world d
   Since the linear model only explained a small portion of the variance, I’d consider trying more flexible models like decision trees or random forests to uncover nonlinear relationships.
 
 - **Addressing multicollinearity:**  
-  To improve model interpretability and robustness, I’d explore regularization techniques like LASSO or use dimensionality reduction (e.g., PCA) to minimize the impact of correlated features.
+  To make the model clearer and more reliable, I’d look into techniques like LASSO or dimensionality reduction (like PCA) to reduce the impact of correlated features and improve the model’s overall performan
